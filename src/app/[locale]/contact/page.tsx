@@ -39,7 +39,7 @@ export default function ContactPage() {
               Head Office: Charmington La Pointe Bldg.Block B, 8-3A
             </p>
             <p className="text-zinc-900">
-              181 Cao Thang Str., 12 Ward, Dist.10, Ho Chi Minh City,72510,
+              181 Cao Thang Str., Hoa Hung Ward, Ho Chi Minh City,72510,
               Vietnam
             </p>
           </div>
@@ -47,7 +47,7 @@ export default function ContactPage() {
             <SvgLocation />
             <p className="text-zinc-900">Ha Noi Rep. Office V-Tower Bldg.302</p>
             <p className="text-zinc-900">
-              649 Kim Ma Str., Ba Dinh Dist., Ha Noi City, 11112, Vietnam
+              649 Kim Ma Str., Giang Vo Ward, Ha Noi City, 11112, Vietnam
             </p>
           </div>
 
