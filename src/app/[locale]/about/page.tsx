@@ -144,6 +144,7 @@ export default function AboutPage() {
                 whileHover={{ scale: 1 }}
                 className="h-60 rounded-2xl w-auto"
               />
+              
               <MotionImage
                 src={imgFatory10}
                 alt="imgMuongThanh"
