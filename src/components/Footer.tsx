@@ -59,8 +59,10 @@ const Footer = () => {
               Vietnam{" "}
             </li>
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
-              • Ha Noi Rep. Office V-Tower Bldg.302 649 Kim Ma Str., 
-              Giang Vo Ward, Ha Noi City, 11112, Vietnam{" "}
+              • Ha Noi Rep. Office V-Tower Bldg.302 {" "}
+            </li>
+            <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
+              649 Kim Ma Str., Giang Vo Ward, Ha Noi City, 11112, Vietnam{" "}
             </li>
           </ul>
         </div>
