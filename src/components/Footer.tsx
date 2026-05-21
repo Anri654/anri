@@ -43,7 +43,7 @@ const Footer = () => {
               &nbsp;{" "}
             </li>
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
-              090-900-0671 ( Mr. Jinno ){" "}
+              090-900-0671 (Japanese ){" "}
             </li>
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
               090-382-4785 (Vietnamese){" "}
@@ -55,12 +55,12 @@ const Footer = () => {
               • Head Office: Charmington La Pointe Bldg.Block B, 8-3A{" "}
             </li>
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
-              181 Cao Thang Str., 12 Ward, Dist.10, Ho Chi Minh City, 72510,
+              181 Cao Thang Str., Hung Hoa Ward, Ho Chi Minh City, 72510,
               Vietnam{" "}
             </li>
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
-              • Ha Noi Rep. Office V-Tower Bldg.302 649 Kim Ma Str., Ba Dinh
-              Dist., Ha Noi City, 11112, Vietnam{" "}
+              • Ha Noi Rep. Office V-Tower Bldg.302 649 Kim Ma Str., 
+              Giang Vo Ward, Ha Noi City, 11112, Vietnam{" "}
             </li>
           </ul>
         </div>
@@ -75,7 +75,7 @@ const Footer = () => {
           </div>
           <div className="flex gap-3 w-full justify-center items-center mt-2 mb-8 -mx-2">
             <div className="mx-2 bg-white rounded-full items-center justify-center flex p-2 shadow-md">
-              <SvgFacebook className="h-6 w-6" />
+              <SvgFacebook  className="h-6 w-6" />
             </div>
             <div className="mx-2 bg-white rounded-full items-center justify-center flex p-2 shadow-md">
               <SvgTwitter className="h-6 w-6" />
