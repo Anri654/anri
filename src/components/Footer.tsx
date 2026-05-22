@@ -76,9 +76,14 @@ const Footer = () => {
             />
           </div>
           <div className="flex gap-3 w-full justify-center items-center mt-2 mb-8 -mx-2">
-            <div className="mx-2 bg-white rounded-full items-center justify-center flex p-2 shadow-md">
-              <SvgFacebook  className="h-6 w-6" />
-            </div>
+            <a 
+              href="https://www.facebook.com/share/1AH8Zsz1vz/"
+              target="_blank"
+              rel="noopener noreferrer">
+              <div className="mx-2 bg-white rounded-full items-center justify-center flex p-2 shadow-md cursor-pointer hover:scale-105 transition">
+                <SvgFacebook className="h-6 w-6" />
+              </div>
+            </a>
             <div className="mx-2 bg-white rounded-full items-center justify-center flex p-2 shadow-md">
               <SvgTwitter className="h-6 w-6" />
             </div>
