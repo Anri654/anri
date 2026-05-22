@@ -29,7 +29,7 @@ export default function ContactPage() {
                 <SvgPhone />
               </div>
             </div>
-            <p className="text-zinc-900">090-900-0671 ( Japanese )</p>
+            <p className="text-zinc-900">090-900-0671 (Japanese)</p>
             <p className="text-zinc-900">0903-824-785 (Vietnamese)</p>
           </div>
 

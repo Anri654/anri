@@ -43,7 +43,7 @@ const Footer = () => {
               &nbsp;{" "}
             </li>
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
-              090-900-0671 (Japanese ){" "}
+              090-900-0671 (Japanese){" "}
             </li>
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
               090-382-4785 (Vietnamese){" "}
