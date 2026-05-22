@@ -55,7 +55,7 @@ const Footer = () => {
               • Head Office: Charmington La Pointe Bldg.Block B, 8-3A{" "}
             </li>
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
-              181 Cao Thang Str., Hung Hoa Ward, Ho Chi Minh City, 72510,
+              181 Cao Thang Str., Hoa Hung Ward, Ho Chi Minh City, 72510,
               Vietnam{" "}
             </li>
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
